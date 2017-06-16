@@ -1,0 +1,11 @@
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\TheLandofAether.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.TheLandofAether.resources
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\TheLandofAether.csproj.GenerateResource.Cache
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\Emily\Documents\Visual Studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb

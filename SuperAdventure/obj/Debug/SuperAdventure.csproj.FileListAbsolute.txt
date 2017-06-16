@@ -1,0 +1,11 @@
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+c:\users\emily\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
